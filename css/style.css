@@ -1,0 +1,31 @@
+body{
+    background-color: #FAF7F0;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+}
+p {
+  font-size: 35px;
+}
+
+.quote,
+.author,
+i{
+    color:#B17457
+}
+i{
+    font-size: 70px;
+}
+button {
+  width: 220px;
+  height: 60px;
+  background-color: #4A4947;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+button:hover{
+    background-color: #B17457;
+}
